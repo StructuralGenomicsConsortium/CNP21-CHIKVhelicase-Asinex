@@ -1,6 +1,6 @@
 # CNP21-CHIKVhelicase-Asinex
 
-An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project (number 21) dedicated to finding hits vs CHIKV nsp2 helicase based on a high throuput screening of [Asinex library](https://www.asinex.com).
+An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project (number 21) dedicated to finding hits vs CHIKV nsp2 helicase based on a high throughput screening of [Asinex library](https://www.asinex.com).
 
 You contribute synthetic chemistry and in return the SGC offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open, with all content governed by a CC-BY-4.0 licence.
 
